@@ -1,6 +1,7 @@
 # Assignment 3 README - Nora Mellik
 
 ## Commands to run in order:
+(stay and run in the root directory)
 
 1. ```minikube start```
 2. ```minikube addons enable ingress```
